@@ -1,4 +1,4 @@
-# Twitter usage prediction   
+# Twitter usage prediction - Preparation Work
    
 ## Abstract   
 The idea is to use our data to predict twitter user activity (how much will he post on Twitter). This prediction will use the multiple features we have access to like the number of tweets the user posts, the number of interactions with other users : number of mention, interaction with topics with hashtags number, urls number and likes.
@@ -27,9 +27,16 @@ We will use the python searchtweets, tweepy libraries to interact with the Twitt
 ## Organization within the team
 
 We will mostly work together on every part of the project as we all want to learn the most of it.
-
+   
+# Twitter usage prediction - Practice
+   
 ## Dataset    
    
 Here are the links to the two new datasets generated using tweepy, a python librairie to use Twitter Api :
 * [list of account that does not longer exist](https://drive.google.com/file/d/1hNJNKgmvu6Ar8sY-YGYmIbi6IPvcJQKv/view?usp=sharing)
 * [recent data of user present in ego_timelines database](https://drive.google.com/file/d/1IGnrCDAH8RnpZm-6HU3jg8nqiANOSBw_/view?usp=sharing)
+
+## Data Story
+   
+We decided to create a web site associate to a git hub page to present the result of our study. We created it with Jekyll. We linked it to github using Mathilde Hermet account to fork the kali project 3 directory to be able to access the settings.   
+The site is served at this location : [link to the data story web site](https://mathildehermet.github.io/twitter_research_paper_extension/)
